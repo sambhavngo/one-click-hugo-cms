@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
 languageLang = "en"
-title = "Kaldi"
+title = "Sambhav NGO"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
