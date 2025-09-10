@@ -5,4 +5,4 @@ title = "Sambhav NGO"
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 [params]
-images = ["img/sambhav_ngo_team_working.jpg"]
+images = ["img/sambhav_logo.png"]
